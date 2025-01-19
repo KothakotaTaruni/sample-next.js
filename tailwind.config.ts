@@ -11,6 +11,14 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        cream: "#FFFDD0",
+        Begie: "#F5F5DC"
+      },
+      width: {
+        'image': '250px',
+      },
+      height: {
+        'image': '250px',
       },
     },
   },
