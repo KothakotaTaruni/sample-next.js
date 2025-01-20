@@ -31,28 +31,55 @@ export default function Images(){
         <h1 className="heading text-xl text-center font-bold mt-12">Shop by Category</h1>
         <div className= "w-full flex justify-between p-8">
             <div>
-                <img src="https://images.canadalightingexperts.com/site/common/canada/content/cle-chandelier-category.jpg" width={200} height={200} className="rounded-full"/>
-                <p className= "text-l font-bold mr-6 ml-10">Chandeliers</p>
+                <img src="https://images.canadalightingexperts.com/site/common/canada/content/cle-chandelier-category.jpg" width={150} height={150} className="rounded-full"/>
+                <p className= "text-l font-bold mr-6 ml-8">Chandeliers</p>
             </div>
             <div>
-                <img src="https://images.canadalightingexperts.com/site/common/canada/content/cle-outdoor-category.jpg" width={200} height={200} className="rounded-full"/>
+                <img src="https://images.canadalightingexperts.com/site/common/canada/content/cle-outdoor-category.jpg" width={150} height={150} className="rounded-full"/>
                 <p className= "text-l font-bold mr-6 ml-10">Outdoor</p>
             </div>
             <div>
-                <img src="https://images.canadalightingexperts.com/site/common/canada/content/cle-wall-category.jpg" width={200} height={200} className="rounded-full"/>
-                <p className= "text-l font-bold mr-6 ml-10">Wall Sconces</p>
+                <img src="https://images.canadalightingexperts.com/site/common/canada/content/cle-wall-category.jpg" width={150} height={150} className="rounded-full"/>
+                <p className= "text-l font-bold mr-6 ml-6">Wall Sconces</p>
             </div>
             <div>
-                <img src="https://images.canadalightingexperts.com/site/common/canada/content/cle-fans-category.jpg" width={200} height={200} className="rounded-full"/>
-                <p className= "text-l font-bold mr-6 ml-10">Ceiling Fans</p>
+                <img src="https://images.canadalightingexperts.com/site/common/canada/content/cle-fans-category.jpg" width={150} height={150} className="rounded-full"/>
+                <p className= "text-l font-bold mr-6 ml-8">Ceiling Fans</p>
             </div>
             <div>
-                <img src="https://imgcms.canadalightingexperts.com/site/common/canada/content/cle-ceiling-category.jpg" width={200} height={200} className="rounded-full"/>
-                <p className= "text-l font-bold mr-6 ml-10">Ceiling & Hanging</p>
+                <img src="https://imgcms.canadalightingexperts.com/site/common/canada/content/cle-ceiling-category.jpg" width={150} height={150} className="rounded-full"/>
+                <p className= "text-l font-bold mr-6 ml-4">Ceiling & Hanging</p>
             </div>
             <div>
-                <img src="https://images.canadalightingexperts.com/site/common/canada/content/cle-pendant-category.jpg?v2" width={200} height={200} className="rounded-full"/>
+                <img src="https://images.canadalightingexperts.com/site/common/canada/content/cle-pendant-category.jpg?v2" width={150} height={150} className="rounded-full"/>
                 <p className= "text-l font-bold mr-6 ml-10">Pendants</p>
+            </div>
+        </div>
+        <h1 className="heading text-xl text-center font-bold mt-12">Shop by Room Type</h1>
+        <div className= "w-full flex justify-between p-12">
+            <div>
+                <img src="https://images.canadalightingexperts.com/site/common/1stop/homepage/category/cat-sbr-dining.jpg" width={150} height={150} className="rounded-full"/>
+                <p className= "text-l font-bold mr-6 ml-6">Dinig Room</p>
+            </div>
+            <div>
+                <img src="https://images.canadalightingexperts.com/site/common/1stop/homepage/category/cat-sbr-kitchen.jpg" width={150} height={150} className="rounded-full"/>
+                <p className= "text-l font-bold mr-6 ml-6">Kitchen Lighting</p>
+            </div>
+            <div>
+                <img src="https://images.canadalightingexperts.com/site/common/1stop/homepage/category/cat-sbr-bed.jpg" width={150} height={150} className="rounded-full"/>
+                <p className= "text-l font-bold mr-6 ml-6">Bed Room Lighting</p>
+            </div>
+            <div>
+                <img src="https://images.canadalightingexperts.com/site/common/1stop/homepage/category/cat-sbr-living.jpg" width={150} height={150} className="rounded-full"/>
+                <p className= "text-l font-bold mr-6 ml-8">Living Room Lighting</p>
+            </div>
+            <div>
+                <img src="https://images.canadalightingexperts.com/site/common/1stop/homepage/category/cat-sbr-foyer.jpg" width={150} height={150} className="rounded-full"/>
+                <p className= "text-l font-bold mr-6 ml-4">Entry Way/Foyer</p>
+            </div>
+            <div>
+                <img src="https://images.canadalightingexperts.com/site/common/1stop/homepage/category/cat-sbr-office.jpg" width={150} height={150} className="rounded-full"/>
+                <p className= "text-l font-bold mr-6 ml-10">Work/Office Space</p>
             </div>
         </div>
       </>
